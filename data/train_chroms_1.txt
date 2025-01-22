@@ -1,0 +1,7 @@
+chr16
+chr14
+chr21
+chr7
+chr12
+chr22
+chr5

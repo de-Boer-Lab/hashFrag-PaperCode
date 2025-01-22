@@ -1,0 +1,6 @@
+K562.part_001.part_001.txt.gz,data/partitioned/K562.part_001.fa.gz,data/partitioned/K562.part_001.fa.gz
+K562.part_001.part_002.txt.gz,data/partitioned/K562.part_001.fa.gz,data/partitioned/K562.part_002.fa.gz
+K562.part_001.part_003.txt.gz,data/partitioned/K562.part_001.fa.gz,data/partitioned/K562.part_003.fa.gz
+K562.part_002.part_002.txt.gz,data/partitioned/K562.part_002.fa.gz,data/partitioned/K562.part_002.fa.gz
+K562.part_002.part_003.txt.gz,data/partitioned/K562.part_002.fa.gz,data/partitioned/K562.part_003.fa.gz
+K562.part_003.part_003.txt.gz,data/partitioned/K562.part_003.fa.gz,data/partitioned/K562.part_003.fa.gz
