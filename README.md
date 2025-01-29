@@ -5,4 +5,4 @@ The [train_and_track_NNs](https://github.com/de-Boer-Lab/hashFrag-PaperCode/blob
 
 # Paper
 
-placeholder
+Check out our [preprint](https://www.biorxiv.org/content/10.1101/2025.01.22.634321v1) on bioRxiv titled, "Detecting and avoiding homology-based data leakage in genome-trained sequence models", for more details.
